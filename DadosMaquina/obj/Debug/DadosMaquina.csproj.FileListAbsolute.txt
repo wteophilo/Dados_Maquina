@@ -1,0 +1,9 @@
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\bin\Debug\DadosMaquina.exe.config
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\bin\Debug\DadosMaquina.exe
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\bin\Debug\DadosMaquina.pdb
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\obj\Debug\DadosMaquina.csprojResolveAssemblyReference.cache
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\obj\Debug\DadosMaquina.Properties.Resources.resources
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\obj\Debug\DadosMaquina.csproj.GenerateResource.Cache
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\obj\Debug\DadosMaquina.exe
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\obj\Debug\DadosMaquina.pdb
+C:\Users\CPD08\Desktop\projetos\dadosMaquina\DadosMaquina\DadosMaquina\obj\Debug\DadosMaquina.frmMain.resources
